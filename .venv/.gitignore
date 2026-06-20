@@ -1,0 +1,13 @@
+# AI Models
+
+models/
+
+*.bin
+
+*.safetensors
+
+# HuggingFace
+
+.cache/
+
+.env
