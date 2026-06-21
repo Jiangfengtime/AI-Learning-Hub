@@ -1,29 +1,32 @@
+# mac
+.DS_Store
 
-models/
-
-*.bin
-
-*.safetensors
-
-*.pt
-
-*.pth
-
-*.ckpt
-
-*.pkl
-
-*.zip
-
-*.tar
-
-*.tar.gz
-
+# python
 __pycache__/
+*.pyc
+*.pyo
 
+# virtual env
+.venv/
+venv/
+
+# jupyter
 .ipynb_checkpoints/
 
-.venv/
-
+# env
 .env
 
+# models
+models/
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# IDE
+.idea/
+.vscode/
+
+# logs
+*.log
