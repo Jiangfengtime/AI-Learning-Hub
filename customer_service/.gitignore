@@ -1,0 +1,14 @@
+models/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.zip
+*.tar
+*.tar.gz
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
